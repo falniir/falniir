@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Eduard</h1>
-<h3 align="center">I just like to learn how technologies work and make them work together, even though they're not intended to 😁</h3>
+<h3 align="center">I just like to learn how technologies work and make them work together, even though they're not intended to. 😁</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=falniir&label=Profile%20views&color=0e75b6&style=flat" alt="falniir" /> </p>
 
