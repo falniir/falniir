@@ -1,7 +1,7 @@
 <h1 align="center">👋 I'm Eduard</h1>
 <h3 align="center">I just like to learn how technologies work and make them work together, even though they're not intended to. 😁</h3>
-<h3 align="center">Mostly commiting on GitLab right now. ✅</h3>
-<h3 align="center">💻Currently working on Searchlight implementations and solutions for Martime and Offshore domain 🛳, using mainly React and C++ for this project.</h3>
+<h3 align="center">Mostly commiting on GitLab right now. 👩‍💻</h3>
+<h3 align="center">Currently working on Searchlight implementations and solutions for Martime and Offshore domains 🛳, using mainly React and C++ for this project.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=falniir&label=Profile%20views&color=0e75b6&style=flat" alt="falniir" /> </p>
