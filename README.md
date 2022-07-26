@@ -1,6 +1,6 @@
 <h1 align="center">👋 I'm Eduard</h1>
 <h3 align="center">I just like to learn how technologies work and make them work together, even though they're not intended to. 😁</h3>
-<h3 align="center">Mostly commiting on GitLab during this period. ✅</h3>
+<h3 align="center">Mostly commiting on GitLab right now. ✅</h3>
 <h3 align="center">💻Currently working on Searchlight implementations and solutions for Martime and Offshore domain 🛳, using mainly React and C++ for this project.</h3>
 
 
